@@ -53,4 +53,4 @@ The following subsections describe the components/elements of the current UI and
 ![fig2](https://cloud.githubusercontent.com/assets/10056040/25971144/3edf1468-3669-11e7-96fd-bd13bdee1d56.png)
 ### Menu Bar
 The “menu bar” offers File, View, and Help tabs which enable the user to perform various functions. Under the File tab are Open and Exit buttons which perform their intuitive functions. The View tab is current inactive with the goal of adding options to look at both the Zoom Plot, and Distribution Plots without having to click on the actual tabs. Finally, the Help tab (current inactive) will eventually link to a user manual which will open when this button is clicked.
-Please find the full description of the project ![here](https://github.com/iHealProjects/TEMPOS/files/993646/PCAreadmeFile.pdf)
+Please find the full description of the project ![here](https://github.com/iHealProjects/TEMPOS/files/993646/PCAreadmeFile.pdf).
