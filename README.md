@@ -41,7 +41,7 @@ Both the Qt libraries and Qt Creator can be installed from the following link.
 ### PySide
 PySide can be easily installed via Canopy’s package manager. Simply search for pyside and install.
 ### PyQtGraph
-PyQtGraph can be installed via pip from within the “Canopy Command Prompt.” Simply run python and type “pip install pyqtgraph” Alternate installation methods are listed here.
+PyQtGraph can be installed via pip from within the “Canopy Command Prompt.” Simply run python and type “pip install pyqtgraph” Alternate installation methods are listed ![here](http://www.pyqtgraph.org/).
 UI Design
 The following section details the development of the front-end user interface layout along with the conversion process required to utilize Qt Creator UI files in python code.
 ## UI Layout
