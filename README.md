@@ -33,5 +33,17 @@ Several python libraries were used in the development of this application. Altho
 6. numpy
 7. scipy
 8. functools
-
+# Software Installation
+### Enthought Canopy
+Canopy can be downloaded for free from the following link using an academic email address. The installer should take care of the setup.
+### Qt / Qt Creator
+Both the Qt libraries and Qt Creator can be installed from the following link.
+### PySide
+PySide can be easily installed via Canopy’s package manager. Simply search for pyside and install.
+### PyQtGraph
+PyQtGraph can be installed via pip from within the “Canopy Command Prompt.” Simply run python and type “pip install pyqtgraph” Alternate installation methods are listed here.
+UI Design
+The following section details the development of the front-end user interface layout along with the conversion process required to utilize Qt Creator UI files in python code.
+## UI Layout
+Early discussion of user interface layout resulted in the construction of a “four quadrant” type design which provides the user with the ability to import logs, visualize medication requests/deliveries across time, look at the distributions of patient behavior, and quickly obtain summary statistics regarding PCA use. This general design was retained throughout the development process although additional features were added to improve usability.
 To see the full description of the software please use this ![link](https://github.com/iHealProjects/TEMPOS/files/993646/PCAreadmeFile.pdf)
