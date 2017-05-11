@@ -44,6 +44,10 @@ PySide can be easily installed via Canopy’s package manager. Simply search for
 PyQtGraph can be installed via pip from within the “Canopy Command Prompt.” Simply run python and type “pip install pyqtgraph” Alternate installation methods are listed ![here](http://www.pyqtgraph.org/).
 ## UI Design
 The following section details the development of the front-end user interface layout along with the conversion process required to utilize Qt Creator UI files in python code.
-## UI Layout
+### UI Layout
 Early discussion of user interface layout resulted in the construction of a “four quadrant” type design which provides the user with the ability to import logs, visualize medication requests/deliveries across time, look at the distributions of patient behavior, and quickly obtain summary statistics regarding PCA use. This general design was retained throughout the development process although additional features were added to improve usability.
+### UI Components
+The following subsections describe the components/elements of the current UI and offer a visual. Components have been manually filled with dummy data to facilitate debugging. This dummy code will have to be replaced with data structures created by preprocessing code.
+### Menu Bar
+The “menu bar” offers File, View, and Help tabs which enable the user to perform various functions. Under the File tab are Open and Exit buttons which perform their intuitive functions. The View tab is current inactive with the goal of adding options to look at both the Zoom Plot, and Distribution Plots without having to click on the actual tabs. Finally, the Help tab (current inactive) will eventually link to a user manual which will open when this button is clicked.
 To see the full description of the software please use this ![link](https://github.com/iHealProjects/TEMPOS/files/993646/PCAreadmeFile.pdf)
