@@ -49,7 +49,8 @@ The following section details the development of the front-end user interface la
 Early discussion of user interface layout resulted in the construction of a “four quadrant” type design which provides the user with the ability to import logs, visualize medication requests/deliveries across time, look at the distributions of patient behavior, and quickly obtain summary statistics regarding PCA use. This general design was retained throughout the development process although additional features were added to improve usability.
 ### UI Components
 The following subsections describe the components/elements of the current UI and offer a visual. Components have been manually filled with dummy data to facilitate debugging. This dummy code will have to be replaced with data structures created by preprocessing code.
+
 ![fig2](https://cloud.githubusercontent.com/assets/10056040/25971144/3edf1468-3669-11e7-96fd-bd13bdee1d56.png)
 ### Menu Bar
 The “menu bar” offers File, View, and Help tabs which enable the user to perform various functions. Under the File tab are Open and Exit buttons which perform their intuitive functions. The View tab is current inactive with the goal of adding options to look at both the Zoom Plot, and Distribution Plots without having to click on the actual tabs. Finally, the Help tab (current inactive) will eventually link to a user manual which will open when this button is clicked.
-To see the full description of the software please use this ![link](https://github.com/iHealProjects/TEMPOS/files/993646/PCAreadmeFile.pdf)
+To see the full description of the project please use this ![link](https://github.com/iHealProjects/TEMPOS/files/993646/PCAreadmeFile.pdf)
