@@ -29,9 +29,9 @@ Several python libraries were used in the development of this application. Altho
 2. pyqtgraph
 3. sys
 4. os
-pandas
-numpy
-scipy
-functools
+5. pandas
+6. numpy
+7. scipy
+8. functools
 
 To see the full description of the software please use this ![link](https://github.com/iHealProjects/TEMPOS/files/993646/PCAreadmeFile.pdf)
